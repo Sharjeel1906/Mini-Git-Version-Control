@@ -170,6 +170,7 @@ int main() {
                 lastUndoneMessage = vn->commitMessage;
                 f->versions.removeLatest();
                 totalVersions--;
+                undoSteps--;
                 redoSteps++;
                 cout << "Undo successful. Current content restored to previous version." << endl;
                 break;
