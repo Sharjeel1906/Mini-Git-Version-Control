@@ -150,7 +150,10 @@ int main() {
                 VersionNode* vn = f->versions.getLatestNode();
                 latestVersion = "CommitID " + to_string(vn->commitID);
                 cout << "Opening file '" << fname << "' (branch '" << currentBranch << "')..." << endl;
-                cout << "Latest version: CommitID " << vn->commitID << " Timestamp: " << vn->timestamp << " Commit Message: " << vn->commitMessage << " Content: " << vn->content << endl;
+                cout << "Latest version: CommitID " << vn->commitID<<endl;
+                cout << " Timestamp: " << vn->timestamp<<endl;
+                cout << " Commit Message: " << vn->commitMessage<<endl;
+                cout << " Content: " << vn->content << endl;
                 cout << "Commit successful. CommitID " << vn->commitID << "." << endl;
                 break;
             }
