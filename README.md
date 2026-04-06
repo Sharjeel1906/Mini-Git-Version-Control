@@ -46,3 +46,12 @@ If you want, I can also:
 - Improve the CLI to persist data to disk.
 - Wire branch-specific VersionManager instances per file.
 
+Contributors:
+
+Azaan Mehtab Khan 
+Sharjeel Ahmed 
+Mohammad Talha 
+Zaid bin Shahid 
+Mohammad Talha Shafique 
+Mohammad Javed 
+Sameer Azam Khan
