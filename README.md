@@ -48,10 +48,10 @@ If you want, I can also:
 
 Contributors:
 
-Azaan Mehtab Khan 
-Sharjeel Ahmed 
-Mohammad Talha 
-Zaid bin Shahid 
-Mohammad Talha Shafique 
-Mohammad Javed 
-Sameer Azam Khan
+-Azaan Mehtab Khan 
+-Sharjeel Ahmed 
+-Mohammad Talha 
+-Zaid bin Shahid 
+-Mohammad Talha Shafique 
+-Mohammad Javed 
+-Sameer Azam Khan
